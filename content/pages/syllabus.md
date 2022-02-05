@@ -50,10 +50,63 @@ Course Requirements
 
 Attendance and participation are critical to your success in this course. Each class session will focus on one or more topics and be accompanied by appropriate readings. Please be sure to read all assignments in advance, come to class on time and be prepared to discuss your reactions and ideas. Failure to attend will adversely affect your grade. Missing more than two weeks of class is grounds for failure in this course. Active participation in discussion in class and responding to classmate's blog posts is necessary to receive full credit.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 10 |
-| Blog commentary / collaborations with weekly posts | 20 |
-| Critical response paper | 20 |
-| Video keyword dialogue | 20 |
-| Final project | 30
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blog commentary / collaborations with weekly posts
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Critical response paper
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Video keyword dialogue
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
